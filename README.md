@@ -1,5 +1,5 @@
 # CompuGrafica_G13
-Practicas de Compu Gráfica
+Practicas de Compu Gráfica;
   Zenteno Loyola Angel Maurice
     LABORATORIO DE COMPUTACIÓN GRÁFICA e INTERACCIÓN HUMANO COMPUTADORA
       No. cuenta 319148417
