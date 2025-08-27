@@ -6,4 +6,4 @@ Practicas de Compu Gráfica;
       GRUPO DE LABORATORIO: 13
         GRUPO DE TEORÍA: 06
           SEMESTRE 2026-1
-            FECHA DE ENTREGA LÍMITE: 28/08/2025
+            
