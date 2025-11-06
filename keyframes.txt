@@ -1,0 +1,95 @@
+KeyFrame[0].movMAzul_x = 0f;
+KeyFrame[0].movMAzul_y = 0f;
+KeyFrame[0].movMAzul_z = -3f;
+KeyFrame[0].giroMAzul = 0;
+
+KeyFrame[1].movMAzul_x = 0f;
+KeyFrame[1].movMAzul_y = 0f;
+KeyFrame[1].movMAzul_z = -6f;
+KeyFrame[1].giroMAzul = 0;
+
+KeyFrame[2].movMAzul_x = 0f;
+KeyFrame[2].movMAzul_y = 0f;
+KeyFrame[2].movMAzul_z = -10f;
+KeyFrame[2].giroMAzul = 0;
+
+KeyFrame[3].movMAzul_x = 0f;
+KeyFrame[3].movMAzul_y = 0f;
+KeyFrame[3].movMAzul_z = -90f;
+KeyFrame[3].giroMAzul = 0;
+
+KeyFrame[4].movMAzul_x = 0f;
+KeyFrame[4].movMAzul_y = 0f;
+KeyFrame[4].movMAzul_z = -90f;
+KeyFrame[4].giroMAzul = 30;
+
+KeyFrame[5].movMAzul_x = 0f;
+KeyFrame[5].movMAzul_y = 0f;
+KeyFrame[5].movMAzul_z = -90f;
+KeyFrame[5].giroMAzul = 60;
+
+KeyFrame[6].movMAzul_x = 0f;
+KeyFrame[6].movMAzul_y = 0f;
+KeyFrame[6].movMAzul_z = -90f;
+KeyFrame[6].giroMAzul = 90;
+
+KeyFrame[7].movMAzul_x = -160f;
+KeyFrame[7].movMAzul_y = 0f;
+KeyFrame[7].movMAzul_z = -90f;
+KeyFrame[7].giroMAzul = 90;
+
+KeyFrame[8].movMAzul_x = -160f;
+KeyFrame[8].movMAzul_y = 0f;
+KeyFrame[8].movMAzul_z = -90f;
+KeyFrame[8].giroMAzul = 120;
+
+KeyFrame[9].movMAzul_x = -160f;
+KeyFrame[9].movMAzul_y = 0f;
+KeyFrame[9].movMAzul_z = -90f;
+KeyFrame[9].giroMAzul = 150;
+
+KeyFrame[10].movMAzul_x = -160f;
+KeyFrame[10].movMAzul_y = 0f;
+KeyFrame[10].movMAzul_z = -10f;
+KeyFrame[10].giroMAzul = 180;
+
+KeyFrame[11].movMAzul_x = -160f;
+KeyFrame[11].movMAzul_y = 0f;
+KeyFrame[11].movMAzul_z = -10f;
+KeyFrame[11].giroMAzul = 210;
+
+KeyFrame[12].movMAzul_x = -160f;
+KeyFrame[12].movMAzul_y = 0f;
+KeyFrame[12].movMAzul_z = -10f;
+KeyFrame[12].giroMAzul = 240;
+
+KeyFrame[13].movMAzul_x = -160f;
+KeyFrame[13].movMAzul_y = 0f;
+KeyFrame[13].movMAzul_z = -10f;
+KeyFrame[13].giroMAzul = 270;
+
+KeyFrame[14].movMAzul_x = -80f;
+KeyFrame[14].movMAzul_y = 0f;
+KeyFrame[14].movMAzul_z = -10f;
+KeyFrame[14].giroMAzul = 270;
+
+KeyFrame[15].movMAzul_x = 0f;
+KeyFrame[15].movMAzul_y = 0f;
+KeyFrame[15].movMAzul_z = -10f;
+KeyFrame[15].giroMAzul = 270;
+
+KeyFrame[16].movMAzul_x = 0f;
+KeyFrame[16].movMAzul_y = 0f;
+KeyFrame[16].movMAzul_z = -10f;
+KeyFrame[16].giroMAzul = 300;
+
+KeyFrame[17].movMAzul_x = 0f;
+KeyFrame[17].movMAzul_y = 0f;
+KeyFrame[17].movMAzul_z = -10f;
+KeyFrame[17].giroMAzul = 330;
+
+KeyFrame[18].movMAzul_x = 0f;
+KeyFrame[18].movMAzul_y = 0f;
+KeyFrame[18].movMAzul_z = -10f;
+KeyFrame[18].giroMAzul = 360;
+
